@@ -46,8 +46,8 @@ const Footer = () => {
             <h4 className="font-bold text-lg mb-4">Contato</h4>
             <ul className="space-y-2 text-blue-100">
               <li>contato@luminax.com.br</li>
-              <li>(11) 99999-9999</li>
-              <li>São Paulo - SP</li>
+              <li>(47) 99699-4835</li>
+              <li>Jaraguá do Sul - SC</li>
               <li>Seg-Sex: 9h às 18h</li>
             </ul>
           </div>
