@@ -84,7 +84,7 @@ const ContactSection = () => {
                 <h4 className="font-bold mb-3">Contato Direto:</h4>
                 <div className="space-y-2 text-blue-100">
                   <p>📧 contato@luminax.com.br</p>
-                  <p>📱 (11) 99999-9999</p>
+                  <p>📱 (47) 99699-4835</p>
                   <p>🕒 Seg-Sex: 9h às 18h</p>
                 </div>
               </div>
